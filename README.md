@@ -1,4 +1,4 @@
-# VISION_DETECT_PRACTICE
+# Computer Vision Practice
 
 This repository is a collection of practice codes and videos for vision detection using OpenCV and MediaPipe.
 
