@@ -2,18 +2,7 @@
 
 This repository is a collection of practice codes and videos for vision detection using OpenCV and MediaPipe.
 
-## Contents
-
-### [Demo Videos](./demo_video)
-
-- [二迴.mp4](./demo_video/二迴.mp4) - Short video for hip detection and calculation.
-- [偵測髖部計算.mp4](./demo_video/偵測髖部計算.mp4) - Video demonstrating detection of hip movements.
-- [手部問題.mp4](./demo_video/手部問題.mp4) - Hand movement issues illustrated in this video.
-- [移動捕捉.mp4](./demo_video/移動捕捉.mp4) - Video showing motion capture techniques.
-- [移轉後狀況.mp4](./demo_video/移轉後狀況.mp4) - Post-transfer condition demonstration.
-- [舉啞鈴.mp4](./demo_video/舉啞鈴.mp4) - Video of dumbbell lifting exercise.
-
-### [Practice Code](./practice_code)
+## [Practice Code](./practice_code)
 
 - [`opencv_contour.py`](./practice_code/opencv_contour.py) - Demonstrates contour detection with OpenCV.
 - [`opencv_detect_color.py`](./practice_code/opencv_detect_color.py) - Script for detecting colors in images.
@@ -27,6 +16,7 @@ This repository is a collection of practice codes and videos for vision detectio
 - [`opencv_read_video.py`](./practice_code/opencv_read_video.py) - Demonstrates reading and processing video files.
 - [`opencv_test.py`](./practice_code/opencv_test.py) - A test script for experimenting with various OpenCV features.
 
+## [Demo Videos](https://youtube.com/playlist?list=PL5RNFkGeLf8ENFW5sXkw4A7zuPW9W3WF2&si=9Kq6MinHgANvBbmh)
 
 ## Installation
 
